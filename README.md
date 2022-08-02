@@ -7,7 +7,7 @@ A next gen Modding API with features so big your mind will explode (Including bu
 BrassAPI was started by the great Turtle, [TurtyWurty](https://www.youtube.com/TurtyWurty)
 
 ## Is there a discord server for BrassAPI?
-For now there is no Officially proclaimed discord server, so just join Turty's Server by clicking [HERE](https://discord.gg/jCTnnhxc7J)
+The official Server for BrassAPI is located in Turty's Server [HERE](https://discord.gg/jCTnnhxc7J)
 
 ## Can I help with BrassAPI?
 Of course! BrassAPI is for anyone to help develop! Its kinda why its open source
