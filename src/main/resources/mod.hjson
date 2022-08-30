@@ -1,0 +1,21 @@
+{
+    modId: brassapi
+    name: BrassAPI
+    version: 0.0.1
+    entrypoint: io.github.brassmc.api.BrassAPI
+    description: BrassAPI
+    license: MIT
+    mixins: brassapi.mixins.json
+    people: {
+        developers: wide
+        artists: beans
+        animators: toast
+        additionalCredits: "skull emoji. nerd emoji. taco emoji"
+    }
+    contact: {
+        homepage: https://www.ag6.dev
+        issues: https://github.com/BrassMC/BrassLoader/issues
+        youtube: https://youtube.com/TurtyWurty
+        discord: https://discord.gg/memes
+    }
+}

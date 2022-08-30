@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "io.github.brassmc.api.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "MinecraftMixin"
+  ],
+  "mixins": [],
+  "minVersion": "0.8.5",
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

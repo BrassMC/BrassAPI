@@ -1,12 +1,19 @@
 plugins {
     id 'java'
+    id 'io.github.brassmc.bradle' version '0.6.0'
 }
 
 repositories {
     mavenCentral()
+    maven {
+        name = 'forge'
+        url = 'https://maven.minecraftforge.net/'
+    }
 }
 
 dependencies {
+    compileOnly bradle.deobf('net.minecraft:client:1.19.1')
+    compileOnly "org.spongepowered:mixin:$mixinVersion"
 }
 
 java {
