@@ -9,6 +9,5 @@ public class BrassAPI {
 
     public BrassAPI() {
         LOGGER.info("Brass API initialised");
-        ItemInit.init();
     }
 }
