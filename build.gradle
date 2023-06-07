@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly bradle.deobf('net.minecraft:client:1.19.3')
+    compileOnly bradle.deobf('net.minecraft:client:1.20')
     compileOnly "org.spongepowered:mixin:$mixinVersion"
 }
 
