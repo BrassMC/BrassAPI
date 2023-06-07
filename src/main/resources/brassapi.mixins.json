@@ -1,10 +1,8 @@
 {
   "required": true,
-  "package": "io.github.brassmc.api.mixin",
+  "package": "io.github.brassmc.api.mixins",
   "compatibilityLevel": "JAVA_17",
-  "client": [
-    "MenuTypeAccessor"
-  ],
+  "client": [],
   "mixins": [],
   "minVersion": "0.8.5",
   "injectors": {
